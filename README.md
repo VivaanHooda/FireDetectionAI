@@ -1,4 +1,4 @@
-# ESP32 based Fire Detection System with AI
+# 🔥 ESP32 based AI Fire Detection System
 
 A comprehensive IoT fire detection system using ESP32 microcontrollers with AI-powered image recognition, multiple gas sensors, and real-time monitoring capabilities.
 
@@ -15,6 +15,8 @@ A comprehensive IoT fire detection system using ESP32 microcontrollers with AI-p
 - **Mobile Alerts**: Push notifications through Blynk mobile app
 
 ## 🏗️ System Architecture
+
+![Circuit Diagram](https://github.com/VivaanHooda/FireDetectionAI/blob/main/circuit-diagram.png)
 
 The system consists of two ESP32 modules working in tandem:
 
