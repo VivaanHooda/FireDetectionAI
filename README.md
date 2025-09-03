@@ -273,9 +273,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [troubleshooting section](#-troubleshooting)
-2. Review the [hardware setup guide](docs/hardware-setup.md)
-3. Open an issue on GitHub
-4. Provide detailed error messages and setup photos
+2. Open an issue on GitHub
+3. Provide detailed error messages and setup photos
 
 ## 🔬 Future Enhancements
 
