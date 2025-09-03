@@ -3,12 +3,12 @@
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME680.h>
 #include <ArduinoJson.h>
-#define BLYNK_TEMPLATE_ID "TMPL3307X4vp6" //If you cloned this from GitHub Do not use this API key this is just a sample API Key
+#define BLYNK_TEMPLATE_ID "TMPL3307X4vp6" 
 #define BLYNK_TEMPLATE_NAME "Fire detection Project"
 #include <WiFi.h>
 #include <BlynkSimpleEsp32.h>
 
-char auth[] = "dPvIz6VgVVVCv6aUqXAjhaRrwMPZzzIf";
+char auth[] = "sampleAPIkey"; //If you cloned this from GitHub Do not use this API key this is just a sample API Key
 char ssid[] = "fire-hotspot";
 char pass[] = "password";
 
